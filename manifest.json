@@ -1,6 +1,6 @@
 {
-  "name": "Search Giphy",
-  "short_name": "Giphy",
+  "name": "My App",
+  "short_name": "MyAPP",
   "theme_color": "#2196f3",
   "background_color": "#2196f3",
   "display": "standalone",
